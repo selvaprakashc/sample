@@ -1,0 +1,28 @@
+{
+  "items": [
+      {
+          "title":"How easy was it for you to register?"
+      },
+      {
+          "title":"How easy was it for you to use the App?"
+      },
+      {
+          "title":"How easy was it to make a payment?"
+      },
+      {
+          "title":"How satisfied were you with your web chat experience?"
+      },
+      {
+          "title":"How satisfied were you with the speed of our response?"
+      },
+      {
+          "title":"How satisfied were you that we took into account your personal circumstances?"
+      },
+      {
+          "title":" How do you think we could improve your experience?"
+      }
+    
+  ]
+}
+
+
